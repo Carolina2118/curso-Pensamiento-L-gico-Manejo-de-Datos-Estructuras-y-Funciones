@@ -18,3 +18,4 @@ Si la condición se cumple sería true y si no se cumple sería false. En este c
 - A través de datos booleanos, podemos realizar operaciones lógicas, para saber si un proceso se debe realizar (verdadero) o no (falso).
 
 Por ejemplo, cuando inicias sesión en Platzi, tu estado cambia a verdadero, entonces ejecuta una serie de pasos, como mostrarte cursos o tus puntos. Cuando cierras sesión, tu estado cambia a falso, entonces ejecuta otras instrucciones, como mostrarte la página inicial.
+
