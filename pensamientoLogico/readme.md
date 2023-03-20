@@ -18,4 +18,4 @@ números = ["21"]
 
 Una cadena de texto puede hacer o no sentido semántico; es decir, un string de texto también puede ser un código aleatorio o sin significado semántico.
 En un contexto en el que los string de texto se encuentran combinados con otros tipos de datos, el string suele ser diferenciado y separado por medio de comillas, como indicado en el ejemplo anterior.
-![ejemplo_cadena](https://user-images.githubusercontent.com/67702555/226384417-d7ad5c97-1df5-4388-967a-c8ba198a24db.png)
+
