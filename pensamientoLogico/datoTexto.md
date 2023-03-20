@@ -1,3 +1,4 @@
+![ejemplo_cadena](https://user-images.githubusercontent.com/67702555/226384317-105fdff6-8fed-4534-927f-91bee0057bf9.png)
 # ¿Qué es un dato?.
 
 - Es una porción de información muy concreta y especifica que nos permite, a través de diferentes operaciones y estructuras, tomar decisiones. Hacen parte de un algoritmo en una estructura más grande.
@@ -19,6 +20,7 @@ números = ["21"]
 
 Una cadena de texto puede hacer o no sentido semántico; es decir, un string de texto también puede ser un código aleatorio o sin significado semántico.
 En un contexto en el que los string de texto se encuentran combinados con otros tipos de datos, el string suele ser diferenciado y separado por medio de comillas, como indicado en el ejemplo anterior.
+<<<<<<< HEAD:pensamientoLogico/datoTexto.md
  
  ## Cómo utilizar los tipos de datos texto.
 
@@ -47,3 +49,6 @@ En un contexto en el que los string de texto se encuentran combinados con otros 
  La respuesta es "Anaestáfeliz", todo unido, porque estamos uniendo cadenas de caracteres. Si quisieras que haya espacios, deberás concatenar espacios.
 
  "Ana" + " " + "está" + " " + "feliz"
+=======
+
+>>>>>>> 6cb071e297008c9ff6084fc8bf2544ee0b84f778:pensamientoLogico/readme.md
