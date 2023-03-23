@@ -5,13 +5,11 @@ Condicionales: Permiten tomar decisiones a partir de una comparaci√≥n u operaci√
 
 Ciclos: Realizan diferentes iteraciones de acuerdo a condiciones o situaciones que pide el algoritmo.
 Estructuras dentro de cada grupo:
--------------------------------------------------------------------------
-Condicionales                                ciclos
 
-if / else                                    For
-Switch                                       While                                 
-Try / catch                                  Do-While.
--------------------------------------------------------------------------
+Condicionales :   if / else, Switch, While, Try / catch      While                          
+ciclos: For, While  , Do-While.
+                                                         
+
 
 Los condicionales son estructuras de control que te permiten evaluar diferentes expresiones como verdadero o falso y realizar determinadas acciones.
 
