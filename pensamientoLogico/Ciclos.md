@@ -1,4 +1,4 @@
-![Captura de pantalla de 2023-04-03 19-08-05](https://user-images.githubusercontent.com/67702555/229646833-899c776f-1d9c-4cd9-b87f-d027c3fd4d3a.png)
+
 Un bucle (loop) o ciclo repetitivo es una estructura de control que te permite realizar una o varias instrucciones mientras una condición sea verdadera.
 
 Todo bucle necesita un valor inicial y un incremento. El incremento es necesario para que no exista un ciclo infinito.
@@ -77,7 +77,8 @@ Para realizar un bucle for necesitaremos lo siguiente:
     Esto se leería como: "Para (for) la variable num que inicia en 1 (num = 1) mientras sea menor o igual que 10 (num <= 10) en pasos de 1 (num = num + 1) muestra la variable num".
 
      Mira la siguiente tabla que muestra cómo cambia la variable num en cada ciclo.
-
+     
+![Captura de pantalla de 2023-04-03 19-08-05](https://user-images.githubusercontent.com/67702555/229646833-899c776f-1d9c-4cd9-b87f-d027c3fd4d3a.png)
     
 
 
