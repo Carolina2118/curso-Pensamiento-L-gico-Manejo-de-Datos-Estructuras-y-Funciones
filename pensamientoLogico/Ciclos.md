@@ -1,4 +1,3 @@
-
 Un bucle (loop) o ciclo repetitivo es una estructura de control que te permite realizar una o varias instrucciones mientras una condición sea verdadera.
 
 Todo bucle necesita un valor inicial y un incremento. El incremento es necesario para que no exista un ciclo infinito.
@@ -74,12 +73,30 @@ Para realizar un bucle for necesitaremos lo siguiente:
      Mostrar num
 
 
-    Esto se leería como: "Para (for) la variable num que inicia en 1 (num = 1) mientras sea menor o igual que 10 (num <= 10) en pasos de 1 (num = num + 1) muestra la variable num".
+Esto se leería como: 
+
+    "Para (for) la variable num que inicia en 1 (num = 1) mientras sea menor o igual que 10 (num <= 10) en pasos de 1 (num = num + 1) muestra la variable num".
 
      Mira la siguiente tabla que muestra cómo cambia la variable num en cada ciclo.
-     
-![Captura de pantalla de 2023-04-03 19-08-05](https://user-images.githubusercontent.com/67702555/229646833-899c776f-1d9c-4cd9-b87f-d027c3fd4d3a.png)
-    
+
+
+Ten en cuenta que el aumento de la variable num ocurre al final de cada ciclo, este valor se compara con la condición. Al momento que la variable num no cumple con la condición del for (num <= 10), termina el bucle y sigue con las siguientes líneas del algoritmo correspondiente.
+
+## Algoritmo de control de variables con el bucle while
+
+El siguiente algoritmo consiste en controlar que un usuario ingrese una edad mayor de 18. Entonces utilizamos while debido a que no conocemos cuántas veces se equivocará el usuario.
+
+Se utiliza la condición contraria a la solicitada, porque es lo que controlaremos, al cambiar la variable edad evitamos el ciclo infinito.
+
+
+Si cumple con la condición del while, volveremos a solicitar un valor correcto de edad.
+
+"Ingrese su edad"
+edad = __
+
+        while edad < 18
+        "Ingrese un valor correcto: "
+            edad = __     
 
 
 
