@@ -67,6 +67,19 @@ Para realizar un bucle for necesitaremos lo siguiente:
    - Condición: la condición será mientras sea menor o igual que 10 (num <= 10),
    - Pasos: debemos aumentar la variable en una unidad, por lo tanto, podemos utilizar num = num +1.
 
+## La estructura es la siguiente:
+
+  for (num = 1; num <= 10; num = num + 1) 
+     Mostrar num
+
+
+    Esto se leería como: "Para (for) la variable num que inicia en 1 (num = 1) mientras sea menor o igual que 10 (num <= 10) en pasos de 1 (num = num + 1) muestra la variable num".
+
+     Mira la siguiente tabla que muestra cómo cambia la variable num en cada ciclo.
+
+    
+
+
 
 
 
