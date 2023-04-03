@@ -57,6 +57,16 @@ while (condición).
 
 Esto se leería de la siguiente manera: “realiza (do) una serie de instrucciones, mientras (while) cumpla una condición, vuelve a realizarlas. Incrementa o cambia la condición para evaluar la condición, si la condición es falsa, sale del bucle”.
 
+## Algoritmo de generación de números con el ciclo for.
+
+El algoritmo consiste en generar los números del 1 al 10, utilizamos un bucle for porque conocemos el número de ciclos para resolver el problema.
+
+Para realizar un bucle for necesitaremos lo siguiente:
+
+   - Inicio: inicializamos una variable con el valor de 1, generalmente se utiliza i (índice) como variable para el bucle, pero no es obligatorio. En este caso utilizaremos num.
+   - Condición: la condición será mientras sea menor o igual que 10 (num <= 10),
+   - Pasos: debemos aumentar la variable en una unidad, por lo tanto, podemos utilizar num = num +1.
+
 
 
 
