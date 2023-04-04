@@ -91,15 +91,38 @@ Se utiliza la condición contraria a la solicitada, porque es lo que controlarem
 
 Si cumple con la condición del while, volveremos a solicitar un valor correcto de edad.
 
-"Ingrese su edad"
-edad = __
-
+        "Ingrese su edad"
+            edad = __
         while edad < 18
         "Ingrese un valor correcto: "
             edad = __     
 
+Mira la siguiente tabla que muestra cómo cambia la variable edad en cada ciclo.
 
+# Ciclo 	edad 	edad < 18 	Nueva edad
+  1.º      	 9  	  true   	15
+  2.º 	     15 	  true 	    21
+  3.º 	     21 	  false   	Termina el bucle
 
+ # Algoritmo de control de variables con el bucle do-while
 
+El mismo ejemplo del ciclo while, sin embargo, no iniciamos una variable edad fuera del ciclo. Con el ciclo do-while realizamos un bloque de código y preguntamos una condición, si es verdadera, repite el código.
 
+Se utiliza la condición contraria a la solicitada, porque es lo que controlaremos, al cambiar la variable edad evitamos el ciclo infinito.
 
+Si cumple con la condición del while, volveremos a solicitar un valor correcto de edad.
+
+      do
+        "Ingrese su edad"
+        edad = __
+      while edad < 18
+
+Mira la siguiente tabla que muestra cómo cambia la variable edad en cada ciclo.
+
+# Ciclo 	edad 	edad < 18 	Estado
+   do 	     11 	true    	Repite el do
+   1.º 	      9 	true 	    Repite el do
+   2.º 	     15 	true 	    Repite el do
+   3.º 	     21 	false 	    Termina el bucle
+
+   
