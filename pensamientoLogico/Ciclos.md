@@ -99,10 +99,10 @@ Si cumple con la condición del while, volveremos a solicitar un valor correcto 
 
 Mira la siguiente tabla que muestra cómo cambia la variable edad en cada ciclo.
 
-# Ciclo 	edad 	edad < 18 	Nueva edad
-  1.º      	 9  	  true   	15
-  2.º 	     15 	  true 	    21
-  3.º 	     21 	  false   	Termina el bucle
+    # Ciclo 	edad 	edad < 18 	Nueva edad
+     1.º      	 9  	  true   	15
+     2.º 	     15 	  true 	    21
+     3.º 	     21 	  false   	Termina el bucle
 
  # Algoritmo de control de variables con el bucle do-while
 
@@ -119,10 +119,9 @@ Si cumple con la condición del while, volveremos a solicitar un valor correcto 
 
 Mira la siguiente tabla que muestra cómo cambia la variable edad en cada ciclo.
 
-# Ciclo 	edad 	edad < 18 	Estado
-   do 	     11 	true    	Repite el do
-   1.º 	      9 	true 	    Repite el do
-   2.º 	     15 	true 	    Repite el do
-   3.º 	     21 	false 	    Termina el bucle
+        # Ciclo 	   edad 	edad < 18 	Estado
+            do 	         11 	true    	Repite el do
+            1.º 	      9 	true 	    Repite el do
+            2.º 	     15 	true 	    Repite el do
+            3.º 	     21 	false 	    Termina el bucle
 
-   
